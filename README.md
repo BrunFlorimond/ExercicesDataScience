@@ -4,12 +4,11 @@
 
 ## Exercices CS109
 
-Exercices du cours CS109
 HW1: Parsing de pages web automatisés pour récuperer des resultats de sondages puis prédictions avec bootstrap non paramétrique
 
 HW2 : Prévisions de résultats d'élections avec du bootstrap non paramétrique, modèles linéaires et modèle Logit
 
-HW3(v14) : Prévisions avec modèle linéaire, Utilisation du KNN avec gridSearch et crossvalidation, Feature Selection avec Truncated SVD grisearch et crossvalidation
+HW3(v14) : Prévisions avec modèle linéaire, Utilisation du KNN avec gridSearch et CrossValidation, Feature Selection avec Truncated SVD GridSearch et CrossValidation
 
 
 ## Exercice de Recuperation de données
