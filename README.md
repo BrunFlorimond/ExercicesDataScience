@@ -14,6 +14,7 @@ Entrainement sur les datasets de Kaggle
 * HW1: Parsing de pages web automatisés pour récuperer des resultats de sondages puis prédictions avec bootstrap non paramétrique
 * HW2 : Prévisions de résultats d'élections avec du bootstrap non paramétrique, modèles linéaires et modèle Logit
 * HW3(v14) : Prévisions avec modèle linéaire, Utilisation du KNN avec gridSearch et CrossValidation, Feature Selection avec Truncated SVD GridSearch et CrossValidation
+* HW4(v14) : Mise en oeuvre de modèle RandomForest sur des unbalanced data, fixation de seuil de decision avec le recall et precision rate.
 
 
 ## Exercice de Recuperation de données
